@@ -1,0 +1,39 @@
+
+.header{
+	width:50%;
+	margin: 80px auto;
+	
+}
+.top_screen{
+
+	height:10rem;
+	margin:2px 2px;
+	border:2px solid black;
+
+}
+.row{
+	height:20%;
+	margin:2px 2px;
+	background-color:lightgrey;
+	display:flex;
+	flex-direction:row;
+}
+.unit{
+	width:25%;
+	margin:2px 2px;
+	
+}
+span{
+	color:black;
+	font-size:3rem;
+	margin:2px 35%;
+}
+.unit:hover{
+	background-color:darkgrey;
+	width:25%;
+	height:100%;
+}
+p{
+	font-size:4rem;
+	text-align:right;
+}
